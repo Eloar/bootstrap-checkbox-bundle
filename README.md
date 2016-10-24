@@ -15,7 +15,7 @@ Instalation
 1. Add to composer requirements
 
 ```bash
-composer require eloar/bootstrap-checkbox-bundle
+composer require itchaos/bootstrap-checkbox-bundle
 ```
 
 2. Register bundle in Your AppKernel
